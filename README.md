@@ -41,5 +41,5 @@ Customer dapat mebuat pesanan dan melihat pesanan:
 
 UML (Unified Modelling Language) dari program yang saya jelaskan diatas:
 
-![image](https://user-images.githubusercontent.com/113492364/232701461-54d8b5da-2e00-48e4-a355-9431a39e7cef.png)
+(https://user-images.githubusercontent.com/120695657/232811276-caa602c0-31d4-458d-a314-771f7d711d40.png)
 
